@@ -26,11 +26,11 @@ The repository is organised into dedicated directories to make resources easier 
 ```text
 Dumping-Ground/
 ├── assets/
-│   └── placeholder.txt
+│   └── assets.md
 ├── code/
-│   └── placeholder.txt
+│   └── coding.md
 ├── docs/
-│   └── placeholder.txt
+│   └── documentation.md
 └── README.md
 ```
 
