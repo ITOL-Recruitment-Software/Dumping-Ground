@@ -120,17 +120,6 @@ This repository can be used by developers, programmers, students, and anyone who
 
 It is particularly useful for keeping reference material available without having to recreate common solutions or search for the same resources repeatedly.
 
-## Contributing
-
-When contributing resources:
-
-1. Ensure the resource has a clear purpose.
-2. Follow the existing directory structure.
-3. Use meaningful filenames and appropriate file extensions.
-4. Verify that code examples work as expected where practical.
-5. Include documentation when additional context is required.
-6. Never commit confidential information or private credentials.
-
 ## License
 
 Unless a separate licence is specified, check the licensing requirements of individual resources before redistributing or using them in external projects.
